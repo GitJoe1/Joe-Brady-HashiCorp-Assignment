@@ -1,4 +1,4 @@
-# Getting Started with Terraform
+# Getting Started with Terraform Job Aid
 
 Terraform is a popular tool for building, changing, and versioning infrastructure, a paradigm commonly known as infrastructure as code (IaC).
 
